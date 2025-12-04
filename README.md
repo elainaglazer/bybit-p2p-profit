@@ -15,4 +15,4 @@ Edit `bybit_p2p_monitor.py` to change:
 *   `CHECK_INTERVAL`: How often to check (default: 60 seconds).
 
 
-audio.mp3 = alert sound
+alert.mp3 = alert sound when price > threshold
