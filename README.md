@@ -13,3 +13,6 @@ Edit `bybit_p2p_monitor.py` to change:
 *   `THRESHOLD`: Minimum profit spread to alert (default: 190 VND).
 *   `CAPITAL`: The minimum buy amount set by the seller (default: 5,500,000 VND). 
 *   `CHECK_INTERVAL`: How often to check (default: 60 seconds).
+
+
+audio.mp3 = alert sound
