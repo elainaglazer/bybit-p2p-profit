@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow these specific files
+!bybit_p2p_monitor.py
+!requirements.txt
+!run_monitor.bat
+!.gitignore
